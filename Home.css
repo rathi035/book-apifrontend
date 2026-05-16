@@ -1,0 +1,70 @@
+.home{
+
+min-height:100vh;
+background:linear-gradient(
+90deg,
+#4c4be7,
+#18bfe0
+);
+
+}
+
+.hero{
+
+display:flex;
+justify-content:space-around;
+align-items:center;
+padding:80px;
+flex-wrap:wrap;
+
+}
+
+.left{
+
+color:white;
+max-width:500px;
+
+}
+
+.left h1{
+
+font-size:75px;
+line-height:1.2;
+
+}
+
+.left p{
+
+font-size:20px;
+margin:30px 0;
+
+}
+
+.left button{
+
+padding:18px 40px;
+border:none;
+border-radius:30px;
+font-size:22px;
+background:white;
+color:#4c4be7;
+font-weight:bold;
+cursor:pointer;
+
+}
+
+.right img{
+
+width:500px;
+
+}
+
+.footer{
+
+background:#04142f;
+padding:25px;
+text-align:center;
+color:white;
+margin-top:80px;
+
+}
